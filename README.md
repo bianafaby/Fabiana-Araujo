@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Fabiana Araujo
 - 👀 I’m interested in ... estudante
-- 🌱 I’m currently learning ... QA 
+- 🌱 I’m currently learning ... AWS 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... bianasantos_faby@hotmail.com
 
